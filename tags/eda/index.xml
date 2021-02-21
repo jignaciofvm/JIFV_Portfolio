@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDA on José I. Fernández Villafáñez</title>
+    <link>https://jignaciofvm.github.io/JIFV_Portfolio/tags/eda/</link>
+    <description>Recent content in EDA on José I. Fernández Villafáñez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://jignaciofvm.github.io/JIFV_Portfolio/tags/eda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What makes people happy?</title>
+      <link>https://jignaciofvm.github.io/JIFV_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 21 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jignaciofvm.github.io/JIFV_Portfolio/post/project-1/</guid>
+      <description>The World Happiness Report is a survey of the state of global happiness. The happiness scores (0-10) are based on answers to the main life evaluation question asked in the poll.
+The Dataset contained several variables such as GDP per capita, Family (Social Support), Life Expectancy, etc.
+Our goal with this dataset is to understand what are the factors that drive the country happiness as well as find patterns among countries.</description>
+    </item>
+    
+  </channel>
+</rss>
